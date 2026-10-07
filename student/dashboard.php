@@ -110,7 +110,7 @@ $stmt->close();
             Explore Events
         </a>
 
-        <a href="#">
+        <a href="my-events.php">
             My Events
         </a>
 
